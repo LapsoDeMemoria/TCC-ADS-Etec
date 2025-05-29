@@ -1,0 +1,4 @@
+Subir o arquivo database.sql que está na pasta Model no seu gerenciador de banco de dados. Para o desenvolvimento, usei o PHPMyAdmin.
+
+
+Colocar a pasta Sistema de Gerenciamento de Estoque e Vendas no gerenciador de servidores PHP para selfhosting. Para o desenvolvimento, utilizei o EasyPHP devserver
